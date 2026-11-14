@@ -35,4 +35,4 @@ No repositório, vá em **Settings → Pages**, escolha a branch `main` e a past
 
 ## Licença
 
-Livre para usar e modificar.
+L
